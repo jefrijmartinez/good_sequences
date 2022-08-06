@@ -1,0 +1,28 @@
+{
+  "name": "good_sequences",
+  "version": "1.0.0",
+  "description": "It should calculate the min cost to increase the height of a tower. ",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefrijmartinez/good_sequences.git"
+  },
+  "keywords": [
+    "good",
+    "sequences"
+  ],
+  "author": "Jefri J. Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefrijmartinez/good_sequences/issues"
+  },
+  "homepage": "https://github.com/jefrijmartinez/good_sequences#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.6"
+  }
+}
