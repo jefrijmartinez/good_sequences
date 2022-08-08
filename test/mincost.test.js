@@ -18,7 +18,7 @@ describe("All examples should be ok", () => {
     expect(minCost(towers, heights, costs)).equal(9);
   });
 
-  it("should match expected result for sample #2", () => {
+  it("should match expected result for sample #3", () => {
     const towers = 3;
     const heights = [2, 2, 3];
     const costs = [4, 1, 5];
