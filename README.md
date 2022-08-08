@@ -17,5 +17,5 @@ Information about the requirement can be located within the docs folder included
 
 ## Image with evidence of execution (Unit Tests)
 
-![Image](/docs/tests.png "Executed unit tests")
+![Image](/docs/tests-output.png "Executed unit tests")
 
